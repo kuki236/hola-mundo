@@ -1,1 +1,2 @@
-alert("Hola usuario");
+const nombreusuario = prompt ("Ingrese su nombre")
+alert(`Hola ${nombreusuario}!`);
